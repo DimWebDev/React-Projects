@@ -3,7 +3,7 @@
 
 ------- General Notice!-------
 In this repository my React Projects can be found. Due to the volume of the files, I have uploaded only
-the src folder with the files that I have created and package.json files, whereas I have excluded the node_modules files.
+the src folder with the files that I have created, that is the src folder with its content the and package.json file, whereas I have excluded the node_modules files.
 In this ReadMe file a desctiption of each file is provides to enable anyone interest to understand what each project is about.
 
 ----Seasons-----
